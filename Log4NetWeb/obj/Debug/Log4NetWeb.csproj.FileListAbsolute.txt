@@ -1,0 +1,7 @@
+F:\AKKI_DEV\RND\Log4NetWeb\Log4NetWeb\obj\Debug\Log4NetWeb.csprojResolveAssemblyReference.cache
+F:\AKKI_DEV\RND\Log4NetWeb\Log4NetWeb\bin\Log4NetWeb.dll.config
+F:\AKKI_DEV\RND\Log4NetWeb\Log4NetWeb\bin\Log4NetWeb.dll
+F:\AKKI_DEV\RND\Log4NetWeb\Log4NetWeb\bin\Log4NetWeb.pdb
+F:\AKKI_DEV\RND\Log4NetWeb\Log4NetWeb\bin\log4net.dll
+F:\AKKI_DEV\RND\Log4NetWeb\Log4NetWeb\obj\Debug\Log4NetWeb.dll
+F:\AKKI_DEV\RND\Log4NetWeb\Log4NetWeb\obj\Debug\Log4NetWeb.pdb
